@@ -1,0 +1,21 @@
+{
+    "name": "New Theme",
+    "description": "New theme for NowYouCode",
+    "demo": "https://nowyoucode.com",
+    "version": "0.11",
+    "engines": {
+        "ghost": ">=2.0.0"
+    },
+    "author": {
+        "name": "Liz & Tiffany",
+        "email": "hello@nowyoucode.com",
+        "url": "https://nowyoucode.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:NowYouCode/theme1.git"
+    },
+    "config": {
+        "posts_per_page": 25
+    }
+}
